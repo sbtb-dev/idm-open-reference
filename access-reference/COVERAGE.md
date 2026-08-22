@@ -13,6 +13,7 @@ A regime is recorded here only if it publishes a standing third-party access reg
 | Fortnite Island Creator (Fortnite Creative & UEFN) | `REGIME/fortnite-island-creator` | 2026-08-21 | 2026-11-19 | current |
 | Roblox Creator Program — Studio-Built Experiences | `REGIME/roblox-creator-experiences` | 2026-08-21 | 2026-11-19 | current |
 | Roblox Advertising (Ads Manager / Immersive Ads) | `REGIME/roblox-ads` | 2026-08-21 | 2026-11-19 | current |
+| Minecraft Marketplace Partner Program — Bedrock Add-On Content | `REGIME/minecraft-marketplace` | 2026-08-22 | 2026-11-20 | current |
 
 ## Known published-access regimes not yet recorded
 
