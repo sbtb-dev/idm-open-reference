@@ -33,6 +33,31 @@ If automated retrieval is ever added to how this repo's content is produced, tha
 
 Every record is reviewed at least once per 90 days, sooner if an operator ships or deprecates developer tooling, changes program terms or role definitions, or opens or closes an access tier. A review that confirms nothing changed is a real contribution — bump `last_reviewed` and `next_review` and say so in the commit message, even with no content changes.
 
+## Adding a brand-presence entry
+
+Copy `brand-presence/ENTRY_TEMPLATE.md`, fill it in, add it to
+`brand-presence/entries/`, and add your alphabetical row to `INDEX.md` in the
+same PR.
+
+Entries are accepted or returned on mechanical grounds only:
+
+1. The presence described is out of scope — an entertainment-IP collaboration,
+   a platform advertising product, operator self-promotion, unsanctioned
+   player-made content, or presence on a broadcast or creator surface rather
+   than inside the environment. (See `brand-presence/README.md`.)
+2. The environment already has a record in `access-reference/records/`.
+3. A citation is missing, unreachable, or does not support the claim.
+4. The entry duplicates an existing one.
+5. The entry adds fields outside the template — including form of presence,
+   brand names, campaign detail, results, or notes.
+
+Items 3 through 5 are returned for changes, not closed. Where scope is arguable,
+raise it in review rather than assuming either way — the exclusions in item 1
+exist to keep the claim narrow, not to keep entries out.
+
+Delisting is honored on request from the operator, without argument and without
+a stated reason.
+
 ## Corrections and delisting
 
 Use the `correction.md` or `delisting-request.md` issue templates. For a census entry, a delisting request needs no justification beyond the requester's identity and connection to the organization. For an access-reference record, a correction should point to the specific documentation that supports the change.

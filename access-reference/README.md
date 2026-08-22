@@ -42,6 +42,8 @@ No record is written for environments where third-party access is negotiated per
 
 `records/` therefore stays small and stops growing early. That is the directory working. The far larger negotiated-access population is covered by `self-description/ENVIRONMENT_ACCESS_TEMPLATE.md` — the record's shape, offered to operators to complete about themselves, rather than a record written about them.
 
+Separately, `brand-presence/` records which environments have carried third-party brand presence at least once. That is precedent, not a regime: it evidences that a door has opened, and says nothing about its terms.
+
 **Two edge cases, settled:**
 
 - **Published access that forbids commercial presence.** A public modding SDK may satisfy all four elements while prohibiting commercial third-party activity. It gets recorded, with the prohibition stated in the scope section. It is a real regime whose terms exclude the use a buyer wants — a fact worth writing down once rather than rediscovering per conversation.

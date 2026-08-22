@@ -37,4 +37,6 @@ This directory covers platform ecosystems that sell or publish standing third-pa
 - Undocumented or informal partner arrangements, even where widely known to exist.
 - Anything not sourced to the operator's own published documentation.
 
+Environments outside this directory's scope may still appear in `brand-presence/`, which records demonstrated precedent rather than documented access.
+
 A regime's presence or absence here is a statement about documentation, not about the environment, the operator, or the opportunity.
