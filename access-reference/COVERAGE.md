@@ -8,16 +8,25 @@ A regime is recorded here only if it publishes a standing third-party access reg
 
 ## Recorded regimes
 
-_None recorded yet._
-
 | Regime | `regime_id` | Last reviewed | Next review | Status |
 |---|---|---|---|---|
+| Fortnite Island Creator (Fortnite Creative & UEFN) | `REGIME/fortnite-island-creator` | 2026-08-21 | 2026-11-19 | current |
+| Roblox Creator Program — Studio-Built Experiences | `REGIME/roblox-creator-experiences` | 2026-08-21 | 2026-11-19 | current |
+| Roblox Advertising (Ads Manager / Immersive Ads) | `REGIME/roblox-ads` | 2026-08-21 | 2026-11-19 | current |
 
 ## Known published-access regimes not yet recorded
 
 Listed alphabetically, with no dates and no ordering — this list is not a queue, and an entry's position here says nothing about when or whether it will be recorded.
 
 _None listed yet — populated as sweeps identify published regimes ahead of the write-up work._
+
+## Investigated and excluded
+
+Candidates that were researched and found not to meet the inclusion test — kept here so the question isn't re-litigated from scratch, not as a judgment about the operator.
+
+| Candidate | Investigated | Finding |
+|---|---|---|
+| Epic Games / Fortnite advertising & brand activations | 2026-08-21 | No standing, self-serve, published regime found. Brand activations in Fortnite Creative are arranged deal-by-deal (per Epic's own developer rules, paid promotion requires case-by-case Epic approval). The one genuinely self-serve, published mechanism found — the Fortnite Event License Terms for esports sponsorships — explicitly states "Epic will not share any user data with you," foreclosing the instrumentation and read/export elements a regime requires. Sponsored Row and brand-island features are sub-features of the Fortnite Island Creator regime (see that record), not a separate advertising regime. |
 
 ## Scope statement
 
