@@ -40,7 +40,7 @@ No record is written for environments where third-party access is negotiated per
 2. **There is nothing to build from.** A record written to this standard about a title with no published program would be almost entirely open questions — honest and nearly useless.
 3. **A mostly-empty record about a named title reads as an accusation.** "Not stated in the documentation" is institutional discipline where a documentation practice exists and something is missing from it. Where none exists, it scans as a charge of opacity levelled at exactly the operators the category needs as participants.
 
-`records/` therefore stays small and stops growing early. That is the directory working. The far larger negotiated-access population is covered by `self-description/ENVIRONMENT_ACCESS_TEMPLATE.md` — the record's shape, offered to operators to complete about themselves, rather than a record written about them.
+`records/` therefore stays small and stops growing early. That is the directory working. The far larger negotiated-access population has no record here in any form — this repo does not offer operators a self-description venue as a substitute for a sourced record, published or otherwise.
 
 Separately, `brand-presence/` records which environments have carried third-party brand presence at least once. That is precedent, not a regime: it evidences that a door has opened, and says nothing about its terms.
 

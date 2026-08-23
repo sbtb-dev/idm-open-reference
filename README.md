@@ -20,10 +20,6 @@ idm-open-reference/
 │   ├── RECORD_TEMPLATE.md
 │   └── records/
 │       └── ...                          # one file per published access regime
-├── self-description/
-│   ├── README.md
-│   ├── VENDOR_OPTION_TEMPLATE.md        # per option sold — for sellers
-│   └── ENVIRONMENT_ACCESS_TEMPLATE.md   # per environment — for operators
 ├── brand-presence/                      # environments demonstrated to have carried third-party presence
 │   ├── README.md
 │   ├── INDEX.md
@@ -43,15 +39,14 @@ A regime is an arrangement, not a company or a game. One environment may carry s
 
 A record describes what a regime makes available. It never establishes that any activation running under it produces anything in particular, and records are not comparable to each other: two records differ in documentation depth at least as much as in capability.
 
-**`self-description/`** — Templates that let vendors and operators state, in their own words and at their own initiative, what they sell or what their environment makes available. Self-attested, unverified, published only where the organization chooses to publish it.
-
 **`brand-presence/`** — An environment-level record of demonstrated precedent: which environments have carried third-party brand presence at least once, cited to public announcements. An entry claims only that. It establishes nothing about current openness, terms, scale, repeatability, or outcome, and absence establishes nothing at all. Environments with a record in `access-reference/` are out of scope — where a regime is published, the door is already documented.
 
 ## What's not here
 
 - **Endorsement or vetting of any vendor.** The census records who exists, not who is good.
 - **Ratings, rankings, or comparisons of environments or operators.** The access reference records what each regime documents. It does not score them, order them, or evaluate them against one another, and absence of a record says nothing about anyone.
-- **Specifications.** Nothing here defines a standard, a threshold, or a pass condition. See the boundary flag in [`self-description/README.md`](self-description/README.md) for the one template that sits closest to that line.
+- **Specifications.** Nothing here defines a standard, a threshold, or a pass condition.
+- **Vendor or operator self-description.** Every voice in this repo is third-party: identified, sourced, or cited by someone other than the org being described. There is no venue here for an organization to state what it sells or what its environment makes available in its own words.
 - **Unsourced testimony.** Operator and vendor claims about a regime's capabilities, however credible, do not enter the access reference. See [`access-reference/README.md`](access-reference/README.md).
 - **Campaign records, outcomes, or results.** `brand-presence/` records environments, not activations, and carries no performance information of any kind.
 

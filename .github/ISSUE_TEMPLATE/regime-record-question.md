@@ -13,7 +13,6 @@ labels: question
 If you're an operator who can resolve an open question in an existing
 record, or you're flagging a published access regime that isn't recorded
 yet, say so here. If you're an operator whose access is negotiated per
-deal rather than published as a standing program, this repo won't record
-it directly — instead see self-description/ENVIRONMENT_ACCESS_TEMPLATE.md,
-which you can fill out and publish yourself.
+deal rather than published as a standing program, this repo has nothing
+to record — see the inclusion policy in access-reference/README.md for why.
 -->

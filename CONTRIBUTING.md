@@ -5,19 +5,19 @@ This repo has two very different kinds of content, and the bar is different for 
 - **`vendor-census/`** is a low-friction roster. Adding an entry should be easy.
 - **`access-reference/`** is a sourced reference. Adding or editing a record carries real discipline, because the whole point of the layer is that a reader can trust it without re-checking it.
 
-`self-description/` templates are filled out and published by the vendor or operator they describe, at their own initiative. This repo does not review or verify what goes in them.
-
 ## Adding a vendor to the census
 
 Copy `vendor-census/ENTRY_TEMPLATE.md` to `vendor-census/entries/{org-slug}.md`, fill it in, and add the entry to the roster in `vendor-census/INDEX.md`. Use the PR template `add-vendor.md`.
 
 Presence on the census is not endorsement. Say only what is publicly verifiable (the org exists, operates in this space, and can be reached) — nothing evaluative.
 
+Entries must be added by someone other than the org being listed, based on independent identification (a sweep, a public listing, outreach found elsewhere) — not filed by the vendor about itself. Write "What they do" in your own words from what the sweep found publicly; do not copy or lightly paraphrase the vendor's own marketing copy. The census reads as third-party identification, not vendor self-description — an entry that carries the vendor's own voice, however short, undoes that distinction.
+
 ## Adding or editing an access regime record
 
 Use `access-reference/RECORD_TEMPLATE.md` and the PR template `add-regime-record.md`. Before opening a PR:
 
-1. **Check the inclusion policy first.** A record is written only where a standing, published third-party access regime exists — see `access-reference/README.md` §"Inclusion policy." If access is negotiated per deal, the record belongs in `self-description/ENVIRONMENT_ACCESS_TEMPLATE.md` instead, filled out by the operator, not here.
+1. **Check the inclusion policy first.** A record is written only where a standing, published third-party access regime exists — see `access-reference/README.md` §"Inclusion policy." If access is negotiated per deal, no record belongs here at all; see the inclusion policy for why.
 2. **Check the individuation rule.** Same enrollment path, same governing terms, same role model = one regime, one record. Do not fork a record over a feature difference; do fork over a different enrollment path or terms.
 3. **Source every statement to published documentation** — developer docs, program terms, role/permission references. Cite publisher, retrieval date, and source class in the record's Sources section.
 4. **Where documentation is silent, say so in Open Questions.** Never infer, and never fill a gap with a plausible guess.
@@ -66,4 +66,4 @@ Use the `correction.md` or `delisting-request.md` issue templates. For a census 
 
 - Ratings, rankings, or comparative claims between vendors, environments, or operators.
 - Unsourced or testimony-based claims in `access-reference/`.
-- Specification-like content — thresholds, pass conditions, or evaluation logic — anywhere in the repo, including in `self-description/ENVIRONMENT_ACCESS_TEMPLATE.md`. See the boundary flag in `self-description/README.md`.
+- Specification-like content — thresholds, pass conditions, or evaluation logic — anywhere in the repo.

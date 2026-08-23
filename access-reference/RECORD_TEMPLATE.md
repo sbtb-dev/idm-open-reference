@@ -16,8 +16,8 @@ and unverified, kept separate from documented fact.
 
 Before writing this record, check the individuation rule and the inclusion
 policy in README.md. If access here is negotiated per deal rather than
-published as a standing program, this is the wrong template — point the
-operator at self-description/ENVIRONMENT_ACCESS_TEMPLATE.md instead.
+published as a standing program, no record belongs here — see the
+inclusion policy for why, and do not write one anyway.
 -->
 
 # {Regime name}
