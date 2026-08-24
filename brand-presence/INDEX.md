@@ -13,11 +13,14 @@ meaning. See `README.md` for scope and exclusions.
 |---|---|---|---|
 | ARC Raiders | Embark Studios | 2026 | [`entries/arc-raiders.md`](entries/arc-raiders.md) |
 | EA SPORTS FC 26 | Electronic Arts | 2026 | [`entries/ea-sports-fc-26.md`](entries/ea-sports-fc-26.md) |
+| GOALS | GOALS AB | 2026 | [`entries/goals.md`](entries/goals.md) |
 | League of Legends: Wild Rift | Riot Games | 2026 | [`entries/league-of-legends-wild-rift.md`](entries/league-of-legends-wild-rift.md) |
 | Overwatch 2 | Blizzard Entertainment | 2024 | [`entries/overwatch-2.md`](entries/overwatch-2.md) |
 | PGA TOUR 2K25 | 2K Games | 2026 | [`entries/pga-tour-2k25.md`](entries/pga-tour-2k25.md) |
+| PUBG MOBILE | KRAFTON (Level Infinite / Tencent Games publishing) | 2026 | [`entries/pubg-mobile.md`](entries/pubg-mobile.md) |
 | Riders Republic | Ubisoft | 2026 | [`entries/riders-republic.md`](entries/riders-republic.md) |
 | Rocket League | Psyonix (Epic Games) | 2026 | [`entries/rocket-league.md`](entries/rocket-league.md) |
+| skate. | Electronic Arts (Full Circle) | 2026 | [`entries/skate.md`](entries/skate.md) |
 | The Sims 4 | Electronic Arts (Maxis) | 2026 | [`entries/the-sims-4.md`](entries/the-sims-4.md) |
 
 ## Now covered by an access regime record
