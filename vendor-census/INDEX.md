@@ -26,3 +26,4 @@ Each sweep is logged here regardless of how many (or how few) new entries it pro
 
 | Date | Scope of sweep | Entries added | Notes |
 |---|---|---|---|
+| 2026-08-24 | Seed sweep — trade directories, agency partner pages, and organization names surfaced in brand-presence coverage, per `idm-sweep`'s vendor-census scope statement (third-party building services into gaming environments, including brokered building) | 9 — Atlas Creative, Chartis, Devoted Studios, Gamefam, Good Gamers, Maddox.gg, New Game Plus, Sawhorse, Super Motion Collective | Anzu and Frameplay were also proposed, then excluded after the scope statement was narrowed to drop ad/media-placement-only vendors. Allied Global Marketing was left open — own materials describe gaming marketing generally but don't confirm build or broker-of-build work. |
