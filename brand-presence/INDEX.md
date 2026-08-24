@@ -15,6 +15,7 @@ meaning. See `README.md` for scope and exclusions.
 | EA SPORTS FC 26 | Electronic Arts | 2026 | [`entries/ea-sports-fc-26.md`](entries/ea-sports-fc-26.md) |
 | GOALS | GOALS AB | 2026 | [`entries/goals.md`](entries/goals.md) |
 | League of Legends: Wild Rift | Riot Games | 2026 | [`entries/league-of-legends-wild-rift.md`](entries/league-of-legends-wild-rift.md) |
+| NBA 2K27 | 2K (Visual Concepts / Take-Two Interactive) | 2026 | [`entries/nba-2k27.md`](entries/nba-2k27.md) |
 | Overwatch 2 | Blizzard Entertainment | 2024 | [`entries/overwatch-2.md`](entries/overwatch-2.md) |
 | PGA TOUR 2K25 | 2K Games | 2026 | [`entries/pga-tour-2k25.md`](entries/pga-tour-2k25.md) |
 | PUBG MOBILE | KRAFTON (Level Infinite / Tencent Games publishing) | 2026 | [`entries/pubg-mobile.md`](entries/pubg-mobile.md) |

@@ -1,0 +1,5 @@
+- **Organization:** New Game Plus
+- **Slug:** new-game-plus
+- **Website:** https://newgameplus.group/en
+- **What they do:** Gaming division of inStreamly that builds branded Fortnite maps and runs the strategy/build/campaign process for brand clients.
+- **Added:** 2026-08-24

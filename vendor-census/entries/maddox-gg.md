@@ -1,0 +1,5 @@
+- **Organization:** Maddox.gg
+- **Slug:** maddox-gg
+- **Website:** https://maddox.gg
+- **What they do:** Full-service gaming agency that develops branded game experiences, manages in-game media buying, and produces interactive activations for consumer brands on platforms including Fortnite and Roblox.
+- **Added:** 2026-08-24

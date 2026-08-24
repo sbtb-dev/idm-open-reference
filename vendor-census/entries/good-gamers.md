@@ -1,0 +1,5 @@
+- **Organization:** Good Gamers
+- **Slug:** good-gamers
+- **Website:** https://www.goodgamers.com
+- **What they do:** Builds branded in-game integrations — modes, items, and mechanics such as a 'Crocs Sport Mode' and a 'Versace Mercury Drop' — for brand clients within its own existing, high-traffic Fortnite games.
+- **Added:** 2026-08-24

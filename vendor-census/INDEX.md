@@ -8,10 +8,17 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 
 ## Roster
 
-_No entries yet — seeded on the first scope sweep._
-
 | Org | Slug | Added |
 |---|---|---|
+| Atlas Creative | atlas-creative | 2026-08-24 |
+| Chartis | chartis | 2026-08-24 |
+| Devoted Studios | devoted-studios | 2026-08-24 |
+| Gamefam | gamefam | 2026-08-24 |
+| Good Gamers | good-gamers | 2026-08-24 |
+| Maddox.gg | maddox-gg | 2026-08-24 |
+| New Game Plus | new-game-plus | 2026-08-24 |
+| Sawhorse | sawhorse | 2026-08-24 |
+| Super Motion Collective | super-motion-collective | 2026-08-24 |
 
 ## Sweep log
 

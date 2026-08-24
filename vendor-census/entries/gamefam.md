@@ -1,0 +1,5 @@
+- **Organization:** Gamefam
+- **Slug:** gamefam
+- **Website:** https://gamefam.com
+- **What they do:** Builds and operates branded games and campaigns on Roblox and Fortnite on behalf of brand and IP partners.
+- **Added:** 2026-08-24

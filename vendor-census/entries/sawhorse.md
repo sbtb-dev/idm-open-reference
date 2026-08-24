@@ -1,0 +1,5 @@
+- **Organization:** Sawhorse
+- **Slug:** sawhorse
+- **Website:** https://sawhorsela.com
+- **What they do:** Builds branded interactive experiences in Roblox, Fortnite, and other immersive/social platforms for brand clients.
+- **Added:** 2026-08-24

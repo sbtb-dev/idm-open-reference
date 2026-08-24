@@ -1,0 +1,5 @@
+- **Organization:** Devoted Studios
+- **Slug:** devoted-studios
+- **Website:** https://devotedstudios.com
+- **What they do:** Builds custom Fortnite islands and branded experiences on UEFN for brands.
+- **Added:** 2026-08-24

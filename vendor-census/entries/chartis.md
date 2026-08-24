@@ -1,0 +1,5 @@
+- **Organization:** Chartis
+- **Slug:** chartis
+- **Website:** https://www.chartis.gg
+- **What they do:** Operates a network of independent Fortnite Creative/UEFN developers and connects brands with that network to build custom islands and integrations.
+- **Added:** 2026-08-24

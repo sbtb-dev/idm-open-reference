@@ -1,0 +1,5 @@
+- **Organization:** Super Motion Collective
+- **Slug:** super-motion-collective
+- **Website:** https://supermotioncollective.com
+- **What they do:** Builds UEFN/Unreal Engine 5 branded Fortnite experiences for brands, agencies, and rights-holders, from concept and art through Verse code and publishing.
+- **Added:** 2026-08-24
