@@ -67,3 +67,16 @@ Use the `correction.md` or `delisting-request.md` issue templates. For a census 
 - Ratings, rankings, or comparative claims between vendors, environments, or operators.
 - Unsourced or testimony-based claims in `access-reference/`.
 - Specification-like content — thresholds, pass conditions, or evaluation logic — anywhere in the repo.
+
+  The one deliberate exception is `brand-presence/TRIAGE_RUBRIC.md`. Read
+  literally it is evaluation logic, and the rule above would normally
+  exclude it — it stays because it classifies whether a given announcement
+  satisfies a claim `brand-presence/README.md`'s Scope section already
+  makes in prose (in vs. about, sanctioned vs. unsolicited, third-party vs.
+  operator); it adds no criteria beyond that boundary and never scores,
+  ranks, or qualifies a vendor, environment, or operator. It exists as a
+  stable, sourced, pinned document because `idm-sweep`'s admissibility
+  check needs to consult that boundary programmatically rather than
+  re-deriving it per run. This is not precedent for other spec-like
+  content — anything proposed on similar grounds needs the same test
+  applied to it, not this exception cited as cover.
