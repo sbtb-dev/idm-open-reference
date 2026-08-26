@@ -25,9 +25,16 @@ Use `access-reference/RECORD_TEMPLATE.md` and the PR template `add-regime-record
 
 ### Terms-of-service posture
 
-Records are built by reading public documentation in a browser. No crawling, no authentication, no access to gated material, and no reproduction of documentation beyond short cited statements.
+Records are built from public documentation — read manually in a browser, or retrieved programmatically, including via an LLM-driven tool. Both methods are in scope, subject to:
 
-If automated retrieval is ever added to how this repo's content is produced, that condition breaks and the terms-of-service question reopens. Treat this as a rule, not a habit.
+- **No authentication and no gated material.** Nothing behind a login, a paywall, or a developer/partner-restricted credential enters a record, regardless of how it was retrieved.
+- **Respect published machine-readable access rules.** Honor `robots.txt` disallow rules and any Content-Signal (or equivalent) declaration a site publishes; where a site explicitly restricts a use, that restriction is honored, not argued around.
+- **No reproduction beyond short cited statements.** A record quotes or closely paraphrases what it needs to support a claim; it does not mirror, archive, or store source pages in full.
+- **Retrieval stays proportionate to the record being written** — enough requests to research and source that record, not systematic or repeated crawling of a site.
+
+Manual reading remains available and is used wherever automated retrieval fails (403s, client-rendered pages) or disagrees with what a page actually says.
+
+This is a deliberate revision of the prior browser-only rule — see commit history for when and why. Future changes to this posture should be made the same way: explicitly, in this file, not by habit.
 
 ### Review cadence
 
