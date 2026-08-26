@@ -14,6 +14,7 @@ A regime is recorded here only if it publishes a standing third-party access reg
 | Roblox Creator Program — Studio-Built Experiences | `REGIME/roblox-creator-experiences` | 2026-08-21 | 2026-11-19 | current |
 | Roblox Advertising (Ads Manager / Immersive Ads) | `REGIME/roblox-ads` | 2026-08-21 | 2026-11-19 | current |
 | Minecraft Marketplace Partner Program — Bedrock Add-On Content | `REGIME/minecraft-marketplace` | 2026-08-22 | 2026-11-20 | current |
+| ZEPETO Studio — Item & World Creation | `REGIME/zepeto-studio` | 2026-08-26 | 2026-11-24 | current |
 
 ## Known published-access regimes not yet recorded
 
@@ -28,6 +29,7 @@ Candidates that were researched and found not to meet the inclusion test — kep
 | Candidate | Investigated | Finding |
 |---|---|---|
 | Epic Games / Fortnite advertising & brand activations | 2026-08-21 | No standing, self-serve, published regime found. Brand activations in Fortnite Creative are arranged deal-by-deal (per Epic's own developer rules, paid promotion requires case-by-case Epic approval). The one genuinely self-serve, published mechanism found — the Fortnite Event License Terms for esports sponsorships — explicitly states "Epic will not share any user data with you," foreclosing the instrumentation and read/export elements a regime requires. Sponsored Row and brand-island features are sub-features of the Fortnite Island Creator regime (see that record), not a separate advertising regime. |
+| ZEPETO brand advertising & partnerships (Naver Z) | 2026-08-26 | No standing, self-serve, published regime found. ZEPETO's own brand-facing site (brands.zepeto.me) presents virtual items, branded worlds, advertising placements, and promotions as a "Contact Us" sales offering, with no self-serve account creation, application form, or campaign-management tool documented anywhere on it. Separately, promoting a brand or product through ordinary ZEPETO Studio content (items, worlds, Build It maps) requires contacting ZEPETO in advance and uploading a licensing contract before submission — a per-instance approval gate layered on the base creator regime, not a self-serve product. (Trade press reports ZEPETO's ad inventory is sold through a direct-sales partnership with Dentsu rather than programmatically; noted here as context only, not as a source for this finding.) |
 
 ## Scope statement
 
