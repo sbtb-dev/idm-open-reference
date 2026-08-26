@@ -1,0 +1,5 @@
+- **Organization:** Rocket Fuel
+- **Slug:** rocket-fuel
+- **Website:** https://rocketfuel.games
+- **What they do:** Designs, builds, and operates user-generated content games -- including Roblox and Fortnite titles -- for platform and IP-holder clients; on some engagements it builds the game itself, on others it only licenses its IP to a separate builder.
+- **Added:** 2026-08-26

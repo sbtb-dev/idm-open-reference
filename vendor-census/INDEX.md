@@ -17,6 +17,8 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 | Good Gamers | good-gamers | 2026-08-24 |
 | Maddox.gg | maddox-gg | 2026-08-24 |
 | New Game Plus | new-game-plus | 2026-08-24 |
+| ReachPlayers | reachplayers | 2026-08-26 |
+| Rocket Fuel | rocket-fuel | 2026-08-26 |
 | Sawhorse | sawhorse | 2026-08-24 |
 | Super Motion Collective | super-motion-collective | 2026-08-24 |
 
@@ -27,3 +29,4 @@ Each sweep is logged here regardless of how many (or how few) new entries it pro
 | Date | Scope of sweep | Entries added | Notes |
 |---|---|---|---|
 | 2026-08-24 | Seed sweep — trade directories, agency partner pages, and organization names surfaced in brand-presence coverage, per `idm-sweep`'s vendor-census scope statement (third-party building services into gaming environments, including brokered building) | 9 — Atlas Creative, Chartis, Devoted Studios, Gamefam, Good Gamers, Maddox.gg, New Game Plus, Sawhorse, Super Motion Collective | Anzu and Frameplay were also proposed, then excluded after the scope statement was narrowed to drop ad/media-placement-only vendors. Allied Global Marketing was left open — own materials describe gaming marketing generally but don't confirm build or broker-of-build work. |
+| 2026-08-26 | Follow-up sweep on two specific candidates, per `idm-sweep`'s vendor-census scope statement | 2 — ReachPlayers, Rocket Fuel | ReachPlayers qualifies on a commissioned custom-mission/challenge service, distinct from its separate templated in-game ad formats, evidenced by a CeraVe/Maybelline/Garnier x L'Oréal South Africa campaign built into Roblox and Minecraft. Rocket Fuel is a direct UGC build partner to game platforms and IP holders. |
