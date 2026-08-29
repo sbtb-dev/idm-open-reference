@@ -23,6 +23,7 @@ meaning. See `README.md` for scope and exclusions.
 | Rocket League | Psyonix (Epic Games) | 2026 | [`entries/rocket-league.md`](entries/rocket-league.md) |
 | skate. | Electronic Arts (Full Circle) | 2026 | [`entries/skate.md`](entries/skate.md) |
 | The Sims 4 | Electronic Arts (Maxis) | 2026 | [`entries/the-sims-4.md`](entries/the-sims-4.md) |
+| Toca Boca World | Toca Boca (Spin Master) | 2026 | [`entries/toca-boca-world.md`](entries/toca-boca-world.md) |
 
 ## Now covered by an access regime record
 
