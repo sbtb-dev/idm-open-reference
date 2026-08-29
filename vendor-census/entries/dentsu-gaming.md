@@ -1,0 +1,5 @@
+- **Organization:** Dentsu Gaming
+- **Slug:** dentsu-gaming
+- **Website:** https://www.dentsu.com/gaming
+- **What they do:** Dentsu's dedicated gaming division; commissions and develops branded in-game integrations for brand clients (e.g. Mountain Dew, Foot Locker, Subway) alongside media placement
+- **Added:** 2026-08-29

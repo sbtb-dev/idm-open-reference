@@ -1,0 +1,5 @@
+- **Organization:** The Gang
+- **Slug:** the-gang
+- **Website:** https://www.thegang.io/
+- **What they do:** Builds branded interactive game experiences (Roblox worlds, Fortnite integrations) commissioned by brand clients
+- **Added:** 2026-08-29

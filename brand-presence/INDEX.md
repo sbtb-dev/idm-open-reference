@@ -12,6 +12,7 @@ meaning. See `README.md` for scope and exclusions.
 | Environment | Operator | First observed | Entry |
 |---|---|---|---|
 | ARC Raiders | Embark Studios | 2026 | [`entries/arc-raiders.md`](entries/arc-raiders.md) |
+| Brawl Stars | Supercell | 2026 | [`entries/brawl-stars.md`](entries/brawl-stars.md) |
 | EA SPORTS FC 26 | Electronic Arts | 2026 | [`entries/ea-sports-fc-26.md`](entries/ea-sports-fc-26.md) |
 | GOALS | GOALS AB | 2026 | [`entries/goals.md`](entries/goals.md) |
 | League of Legends: Wild Rift | Riot Games | 2026 | [`entries/league-of-legends-wild-rift.md`](entries/league-of-legends-wild-rift.md) |
@@ -34,6 +35,10 @@ _None yet._
 
 ## Sweeps run
 
-Logged so that gaps read as gaps rather than as judgments.
+Logged so that gaps read as gaps rather than as judgments. Entries above dated
+before the first logged sweep were seeded from ad-hoc observation, not a
+tracked sweep — no sweep-log row exists for them.
 
-_None yet — this list is seeded from ad-hoc observation pending the first sweep._
+| Date | Scope of sweep | Entries added | Notes |
+|---|---|---|---|
+| 2026-08-29 | Live-fire validation pass, targeting the `operator press-release feed: {environment}` query family, per `idm-sweep`'s `docs/SEARCH_PROMPT.md`, gated on `TRIAGE_RUBRIC.md` rev `2026-08-24-v1` | 1 — Brawl Stars | All three structural tests (in vs. about, sanctioned vs. unsolicited, third-party vs. operator) settled from a single joint Supercell/adidas press release. |
