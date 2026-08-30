@@ -1,0 +1,5 @@
+- **Organization:** Blockception
+- **Slug:** blockception
+- **Website:** https://blockception.com/
+- **What they do:** Builds commissioned branded Minecraft experiences and maps for brand clients
+- **Added:** 2026-08-30

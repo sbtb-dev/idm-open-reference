@@ -1,0 +1,5 @@
+- **Organization:** Super League Enterprise
+- **Slug:** super-league-enterprise
+- **Website:** https://www.superleague.com/
+- **What they do:** Builds bespoke branded Roblox integrations and content (pop-up shops, interactive characters) commissioned by brand clients, and acquired Supersocial's Roblox brand-world building business in May 2025
+- **Added:** 2026-08-30
