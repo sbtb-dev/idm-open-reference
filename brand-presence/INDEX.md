@@ -14,8 +14,10 @@ meaning. See `README.md` for scope and exclusions.
 | ARC Raiders | Embark Studios | 2026 | [`entries/arc-raiders.md`](entries/arc-raiders.md) |
 | Brawl Stars | Supercell | 2026 | [`entries/brawl-stars.md`](entries/brawl-stars.md) |
 | EA SPORTS FC 26 | Electronic Arts | 2026 | [`entries/ea-sports-fc-26.md`](entries/ea-sports-fc-26.md) |
+| Free Fire | Garena Online (Thailand) Co., Ltd. | 2025 | [`entries/free-fire.md`](entries/free-fire.md) |
 | GOALS | GOALS AB | 2026 | [`entries/goals.md`](entries/goals.md) |
 | League of Legends: Wild Rift | Riot Games | 2026 | [`entries/league-of-legends-wild-rift.md`](entries/league-of-legends-wild-rift.md) |
+| Mobile Legends: Bang Bang | MOONTON Games | 2026 | [`entries/mobile-legends-bang-bang.md`](entries/mobile-legends-bang-bang.md) |
 | NBA 2K27 | 2K (Visual Concepts / Take-Two Interactive) | 2026 | [`entries/nba-2k27.md`](entries/nba-2k27.md) |
 | Overwatch 2 | Blizzard Entertainment | 2024 | [`entries/overwatch-2.md`](entries/overwatch-2.md) |
 | PGA TOUR 2K25 | 2K Games | 2026 | [`entries/pga-tour-2k25.md`](entries/pga-tour-2k25.md) |
