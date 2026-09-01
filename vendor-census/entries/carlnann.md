@@ -1,0 +1,5 @@
+- **Organization:** CarlNann
+- **Slug:** carlnann
+- **Website:** https://carlnann.com
+- **What they do:** Hamburg advertising agency that has conceived and commissioned branded gaming builds — a Minecraft construction project and a Fortnite Creative island — for a national trade-association client, working with implementation partners Rocket Beans TV, Strafejump, and Stunning Studio.
+- **Added:** 2026-09-01

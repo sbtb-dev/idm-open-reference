@@ -1,0 +1,5 @@
+- **Organization:** Stunning Studio
+- **Slug:** stunning-studio
+- **Website:** https://stunning.studio/
+- **What they do:** Hamburg-based studio that built the multiplayer game mechanic for a Fortnite basketball experience commissioned by a multi-brand client group, separately from its credited role on a German trade-association's Fortnite build.
+- **Added:** 2026-09-01
