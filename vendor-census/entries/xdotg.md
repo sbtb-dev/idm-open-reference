@@ -1,0 +1,5 @@
+- **Organization:** XDOTG
+- **Slug:** xdotg
+- **Website:** https://xdotg.com
+- **What they do:** Gaming/culture marketing and talent agency whose service listing names Custom Fortnite Islands and Custom Roblox Experiences among its offerings for brand clients
+- **Added:** 2026-09-03

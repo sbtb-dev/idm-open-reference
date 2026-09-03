@@ -28,6 +28,7 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 | Super Motion Collective | super-motion-collective | 2026-08-24 |
 | The Gang | the-gang | 2026-08-29 |
 | Twin Atlas | twin-atlas | 2026-08-30 |
+| XDOTG | xdotg | 2026-09-03 |
 
 ## Sweep log
 
