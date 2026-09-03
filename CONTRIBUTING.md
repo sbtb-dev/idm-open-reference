@@ -65,6 +65,40 @@ exist to keep the claim narrow, not to keep entries out.
 Delisting is honored on request from the operator, without argument and without
 a stated reason.
 
+## Adding an operator-relations edge
+
+Copy `operator-relations/ENTRY_TEMPLATE.md`, fill it in, name the file
+`{environment-slug}--{organization-slug}.md` (environment slug first, matching
+its `brand-presence/` entry; organization slug matching its `vendor-census/`
+entry), add it to `operator-relations/edges/`, and add your alphabetical-by-environment
+row to `INDEX.md` in the same PR. Use the PR template `add-operator-edge.md`.
+
+This record type carries a stricter sourcing bar than the rest of the repo —
+read `operator-relations/README.md`'s "Sourcing" section before filing. In
+short: neither party the edge names may source it, even indirectly (an
+operator's own announcement about who it hired or acquired doesn't count).
+Only the hosting platform's own attribution or independent third-party
+reporting qualifies.
+
+Entries are accepted or returned on mechanical grounds only:
+
+1. A role's source is the organization's own statement, the environment's
+   own statement, or either party's marketing about the other — not a
+   `PLATFORM_STATEMENT` or `THIRD_PARTY_REPORTING`.
+2. The role claimed isn't what the source actually supports (e.g., a source
+   documenting `built_for` cited to support `operates`).
+3. `as_of` doesn't match the source's actual publish or retrieval date.
+4. The environment-organization pair already has a file — add or update a
+   role there instead of filing a second edge for the same pair.
+5. The entry adds fields outside the template — deal terms, history, notes,
+   or evaluative language of any kind.
+
+Items 1 through 3 go to the heart of the claim and are returned, not
+adjusted in review. Items 4 and 5 are returned for changes.
+
+Delisting is honored on request from either named party, without argument
+and without a stated reason.
+
 ## Corrections and delisting
 
 Use the `correction.md` or `delisting-request.md` issue templates. For a census entry, a delisting request needs no justification beyond the requester's identity and connection to the organization. For an access-reference record, a correction should point to the specific documentation that supports the change.
