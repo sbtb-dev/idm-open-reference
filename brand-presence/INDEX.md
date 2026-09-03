@@ -14,6 +14,7 @@ meaning. See `README.md` for scope and exclusions.
 | ARC Raiders | Embark Studios | 2026 | [`entries/arc-raiders.md`](entries/arc-raiders.md) |
 | BGMI | KRAFTON India | 2026 | [`entries/bgmi.md`](entries/bgmi.md) |
 | Brawl Stars | Supercell | 2026 | [`entries/brawl-stars.md`](entries/brawl-stars.md) |
+| Driving Empire | Voldex | 2025 | [`entries/driving-empire.md`](entries/driving-empire.md) |
 | EA SPORTS FC 26 | Electronic Arts | 2026 | [`entries/ea-sports-fc-26.md`](entries/ea-sports-fc-26.md) |
 | Free Fire | Garena Online (Thailand) Co., Ltd. | 2025 | [`entries/free-fire.md`](entries/free-fire.md) |
 | GOALS | GOALS AB | 2026 | [`entries/goals.md`](entries/goals.md) |
