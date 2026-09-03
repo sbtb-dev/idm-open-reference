@@ -18,6 +18,7 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 | Devoted Studios | devoted-studios | 2026-08-24 |
 | Gamefam | gamefam | 2026-08-24 |
 | Good Gamers | good-gamers | 2026-08-24 |
+| Havas Play | havas-play | 2026-09-03 |
 | Maddox.gg | maddox-gg | 2026-08-24 |
 | New Game Plus | new-game-plus | 2026-08-24 |
 | ReachPlayers | reachplayers | 2026-08-26 |

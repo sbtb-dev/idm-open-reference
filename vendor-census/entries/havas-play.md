@@ -1,0 +1,5 @@
+- **Organization:** Havas Play
+- **Slug:** havas-play
+- **Website:** https://havasmedianetwork.com/our-services/havas-play/
+- **What they do:** Havas Media Network's global gaming/culture/sports activation network, with regional divisions in France, the UK, and North America, that commissions modders and builder studios to create branded content inside existing games and brokers build partners such as Vysena and Gamefam into Fortnite on brands' behalf
+- **Added:** 2026-09-03
