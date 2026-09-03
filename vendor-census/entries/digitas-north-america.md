@@ -1,0 +1,5 @@
+- **Organization:** Digitas North America
+- **Slug:** digitas-north-america
+- **Website:** https://www.digitas.com/en-us
+- **What they do:** A full-service marketing/advertising agency (Publicis Groupe), headquartered in Boston with offices across the US, whose staff have been credited with building a commissioned branded virtual environment for a client inside Roblox.
+- **Added:** 2026-09-03

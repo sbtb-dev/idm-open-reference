@@ -1,0 +1,5 @@
+- **Organization:** Pears
+- **Slug:** pears
+- **Website:** https://www.pears.gg
+- **What they do:** Roblox game development studio that builds commissioned branded gameplay integrations — dedicated zones, collectible items, minigames, character encounters — inside its own portfolio of Roblox experiences for outside brands, media franchises, and sports clubs.
+- **Added:** 2026-09-03
