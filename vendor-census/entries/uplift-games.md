@@ -1,0 +1,5 @@
+- **Organization:** Uplift Games
+- **Slug:** uplift-games
+- **Website:** https://www.uplift.games/
+- **What they do:** Develops and operates the Roblox game Adopt Me!, and periodically builds limited-time promotional integrations for third-party film brands (a temporary pet, NPC, or item) into that game to tie in with movie releases.
+- **Added:** 2026-09-03

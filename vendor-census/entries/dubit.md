@@ -1,0 +1,5 @@
+- **Organization:** Dubit
+- **Slug:** dubit
+- **Website:** https://dubit.io
+- **What they do:** Builds and produces commissioned, branded game experiences and virtual storefronts for consumer and sports brands inside Roblox and Fortnite, alongside youth-audience research and community services.
+- **Added:** 2026-09-03

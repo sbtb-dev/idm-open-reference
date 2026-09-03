@@ -11,16 +11,22 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 | Org | Slug | Added |
 |---|---|---|
 | Atlas Creative | atlas-creative | 2026-08-24 |
+| BIG Games | big-games | 2026-09-03 |
 | Blockception | blockception | 2026-08-30 |
 | CarlNann | carlnann | 2026-09-01 |
 | Chartis | chartis | 2026-08-24 |
 | Dentsu Gaming | dentsu-gaming | 2026-08-29 |
 | Devoted Studios | devoted-studios | 2026-08-24 |
+| Do Big Studios | do-big-studios | 2026-09-03 |
+| Dubit | dubit | 2026-09-03 |
+| Fullflower Studio LLC | fullflower-studio | 2026-09-03 |
 | Gamefam | gamefam | 2026-08-24 |
 | Good Gamers | good-gamers | 2026-08-24 |
 | Havas Play | havas-play | 2026-09-03 |
+| Karta | karta | 2026-09-03 |
 | Maddox.gg | maddox-gg | 2026-08-24 |
 | New Game Plus | new-game-plus | 2026-08-24 |
+| Paradoxum Games | paradoxum-games | 2026-09-03 |
 | ReachPlayers | reachplayers | 2026-08-26 |
 | Rocket Fuel | rocket-fuel | 2026-08-26 |
 | Sawhorse | sawhorse | 2026-08-24 |
@@ -29,6 +35,7 @@ Each entry lives at `entries/{org-slug}.md` and follows `ENTRY_TEMPLATE.md`. See
 | Super Motion Collective | super-motion-collective | 2026-08-24 |
 | The Gang | the-gang | 2026-08-29 |
 | Twin Atlas | twin-atlas | 2026-08-30 |
+| Uplift Games | uplift-games | 2026-09-03 |
 | Voldex | voldex | 2026-09-03 |
 | Wonder Works Studio | wonder-works-studio | 2026-09-03 |
 | XDOTG | xdotg | 2026-09-03 |
@@ -47,3 +54,4 @@ Each sweep is logged here regardless of how many (or how few) new entries it pro
 | 2026-08-30 | Second cross-directory find, same family, same day — surfaced sourcing an excluded e.l.f. UP! x Beekman 1802 brand-presence candidate (Roblox-hosted) | 1 — Super League Enterprise | Filed first as "Supersocial," the studio named as e.l.f. UP!'s builder; corrected same-session on identity grounds — Supersocial was acquired by Super League Enterprise in May 2025 and no longer operates as an independent entity (its founder became an advisor; Super League directly inherited its live branded Roblox experiences and client relationships). Own press releases independently describe "bespoke brand integrations" and "proprietary Pop-Up Shops, interactive characters, and integrated content products" commissioned for 100+ named brand clients (Universal Pictures, Paramount, NFL, Chipotle, Clarks, PacSun, and others). |
 | 2026-09-01 | Cross-directory find, per `idm-sweep`'s `docs/SEARCH_PROMPT.md`/`docs/RUN_SEARCH_PROMPT.md` "organization names inside brand-presence announcement coverage" family, surfaced while working a brand-presence pass aimed at UGC sandbox environments popular in Germany | 1 — CarlNann | Named as lead agency on a Fortnite Creative island built for Das Handwerk (Zentralverband des Deutschen Handwerks, the German skilled-crafts trade association) — the brand-presence candidate itself was excluded via S7 (Fortnite). Trade coverage (Handwerksblatt, GamesWirtschaft) independently documents CarlNann conceiving and commissioning two branded gaming builds — a Minecraft project and the Fortnite island — for that client, working with implementation partners Rocket Beans TV, Strafejump, and Stunning Studio. |
 | 2026-09-01 | Follow-up sweep on two named organizations credited alongside CarlNann on the same Fortnite build (Strafejump, Stunning Studio), per `idm-sweep`'s `docs/RUN_SEARCH_PROMPT.md` | 1 — Stunning Studio | Stunning Studio qualifies on independent corroboration: GWA trade coverage separately documents it building the multiplayer game mechanic for an unrelated Fortnite experience ("Mooncourt," commissioned by a KICKZ M3TA multi-brand group including BMW, PUMA, and Kellogg's), distinct from its Das Handwerk credit. Strafejump was also assessed and left an open case, not added to the roster — its own site and case studies describe only strategy, event, and influencer-campaign services, with no building work named and the Handwerk project absent from its own client list, conflicting with the single trade-press line crediting it as a co-developer. |
+| 2026-09-03 | Named-organization verification pass on 8 maintainer-supplied candidates (FullFlower Studio, Do Big Studios, Paradoxum Games, Karta, BIG Games, Dubit, Uplift Games, Easy Games), per `idm-sweep`'s vendor-census scope statement | 7 — BIG Games, Do Big Studios, Dubit, Fullflower Studio LLC, Karta, Paradoxum Games, Uplift Games | Easy Games was assessed and excluded — its own site and CB Insights both describe a self-publishing Roblox studio (BedWars, Islands) with no documented commissioned brand-build work. Each proposed vendor qualifies on a branded integration built into an environment it owns and operates itself: FullFlower Studio (Spin Master's Mermaid High tie-in inside Mermaid Life), Paradoxum Games (Philips Norelco's Movember season inside Tower Defense Simulator), Uplift Games (Warner Bros./Illumination film tie-ins inside Adopt Me!), BIG Games (a Nickelodeon SpongeBob set inside Pet Simulator 99), Do Big Studios (LEGO Ninjago inside Blade Ball and a Bruno Mars concert inside Steal a Brainrot), and Dubit (NASCAR Speed Hub, Starbucks virtual stores, and several other commissioned Roblox/Fortnite builds, corroborated independently of Dubit's own client-roster claims). Every named environment surfaced under this cross-check (29 in total, per the standing "activation/campaign names surfacing inside vendor-census evidence and coverage" rule) was independently filed as its own brand-presence evidence file and excluded there under S7 — all sit on Roblox or Fortnite, both of which already carry a published access-reference regime. |

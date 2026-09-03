@@ -1,0 +1,5 @@
+- **Organization:** Paradoxum Games
+- **Slug:** paradoxum-games
+- **Website:** https://paradoxum.gg/
+- **What they do:** A Roblox game studio that develops and operates its own titles (Tower Defense Simulator, Alter Ego) and, at least once, built a named branded in-game season for an outside consumer brand inside one of those titles.
+- **Added:** 2026-09-03

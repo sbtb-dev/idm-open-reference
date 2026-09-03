@@ -1,0 +1,5 @@
+- **Organization:** Karta
+- **Slug:** karta
+- **Website:** https://karta.game
+- **What they do:** Builds and operates commissioned interactive maps, mini-games, and persistent branded worlds inside Fortnite and Roblox for music, sports, fashion, and consumer-goods clients.
+- **Added:** 2026-09-03
