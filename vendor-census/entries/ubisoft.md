@@ -1,0 +1,5 @@
+- **Organization:** Ubisoft
+- **Slug:** ubisoft
+- **Website:** https://www.ubisoft.com
+- **What they do:** French game developer and publisher that operates Riders Republic
+- **Added:** 2026-09-08

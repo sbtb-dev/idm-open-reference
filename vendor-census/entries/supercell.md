@@ -1,0 +1,5 @@
+- **Organization:** Supercell
+- **Slug:** supercell
+- **Website:** https://supercell.com
+- **What they do:** Finnish game developer and publisher that operates Brawl Stars
+- **Added:** 2026-09-08

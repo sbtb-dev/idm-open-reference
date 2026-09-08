@@ -1,0 +1,5 @@
+- **Organization:** KRAFTON
+- **Slug:** krafton
+- **Website:** https://www.krafton.com
+- **What they do:** Seoul-based game publisher and holding company for the PUBG franchise, publishing PUBG MOBILE globally through Level Infinite/Tencent Games
+- **Added:** 2026-09-08

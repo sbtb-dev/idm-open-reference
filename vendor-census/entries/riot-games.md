@@ -1,0 +1,5 @@
+- **Organization:** Riot Games
+- **Slug:** riot-games
+- **Website:** https://www.riotgames.com
+- **What they do:** Tencent-owned game developer and publisher that operates League of Legends: Wild Rift
+- **Added:** 2026-09-08

@@ -1,0 +1,5 @@
+- **Organization:** MOONTON Games
+- **Slug:** moonton-games
+- **Website:** https://en.moonton.com
+- **What they do:** Game developer and publisher that operates Mobile Legends: Bang Bang
+- **Added:** 2026-09-08

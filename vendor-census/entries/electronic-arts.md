@@ -1,0 +1,5 @@
+- **Organization:** Electronic Arts
+- **Slug:** electronic-arts
+- **Website:** https://www.ea.com
+- **What they do:** Publisher operating EA SPORTS FC 26 directly, and, through its owned studios Full Circle and Maxis, operating skate. and The Sims 4 respectively
+- **Added:** 2026-09-08

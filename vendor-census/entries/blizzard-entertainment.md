@@ -1,0 +1,5 @@
+- **Organization:** Blizzard Entertainment
+- **Slug:** blizzard-entertainment
+- **Website:** https://www.blizzard.com
+- **What they do:** Irvine, California-based game developer that operates Overwatch 2
+- **Added:** 2026-09-08

@@ -1,0 +1,5 @@
+- **Organization:** Embark Studios
+- **Slug:** embark-studios
+- **Website:** https://www.embark-studios.com
+- **What they do:** Stockholm-based game developer and publisher, a Nexon subsidiary since 2021, that develops and operates ARC Raiders
+- **Added:** 2026-09-08

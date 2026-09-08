@@ -1,0 +1,5 @@
+- **Organization:** HoYoverse
+- **Slug:** hoyoverse
+- **Website:** https://www.hoyoverse.com
+- **What they do:** Global publishing brand of miHoYo (operating as Cognosphere Pte. Ltd. outside China) that operates Genshin Impact
+- **Added:** 2026-09-08

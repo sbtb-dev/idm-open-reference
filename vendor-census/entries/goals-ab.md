@@ -1,0 +1,5 @@
+- **Organization:** GOALS AB
+- **Slug:** goals-ab
+- **Website:** https://playgoals.com
+- **What they do:** Stockholm-based game studio that develops and operates GOALS, a multiplayer football game
+- **Added:** 2026-09-08

@@ -11,4 +11,4 @@ in your own words from what you found.
 - **Slug:** {org-slug}
 - **Website:**
 - **What they do:** <!-- one line, descriptive not evaluative, e.g. "Builds commissioned branded Roblox experiences for brand clients" -->
-- **Added:** <!-- YYYY-MM-DD, date of the sweep that found this entry -->
+- **Added:** <!-- YYYY-MM-DD, date of the sweep or operator-sourced backfill that found this entry -->

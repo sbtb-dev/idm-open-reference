@@ -1,0 +1,5 @@
+- **Organization:** Rockstar Games
+- **Slug:** rockstar-games
+- **Website:** https://www.rockstargames.com
+- **What they do:** Take-Two Interactive-owned game developer and publisher that operates GTA Online
+- **Added:** 2026-09-08

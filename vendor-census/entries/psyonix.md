@@ -1,0 +1,5 @@
+- **Organization:** Psyonix
+- **Slug:** psyonix
+- **Website:** https://www.psyonix.com
+- **What they do:** San Diego-based game developer that operates Rocket League; acquired by Epic Games in 2019
+- **Added:** 2026-09-08

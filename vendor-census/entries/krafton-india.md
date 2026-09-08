@@ -1,0 +1,5 @@
+- **Organization:** KRAFTON India
+- **Slug:** krafton-india
+- **Website:** https://krafton.in
+- **What they do:** India-registered subsidiary of KRAFTON that publishes and operates BGMI directly for the Indian market, without Tencent involvement in that market's publishing
+- **Added:** 2026-09-08

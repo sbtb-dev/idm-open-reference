@@ -1,0 +1,5 @@
+- **Organization:** Garena
+- **Slug:** garena
+- **Website:** https://www.garena.sg
+- **What they do:** Singapore-based game developer and publisher, the digital-entertainment arm of Sea Limited, that operates Free Fire
+- **Added:** 2026-09-08
