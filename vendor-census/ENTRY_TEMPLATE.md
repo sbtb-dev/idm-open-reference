@@ -10,5 +10,5 @@ in your own words from what you found.
 - **Organization:**
 - **Slug:** {org-slug}
 - **Website:**
-- **What they do:** <!-- one line, descriptive not evaluative, e.g. "Sells creator-side analytics tooling for UGC platforms" -->
+- **What they do:** <!-- one line, descriptive not evaluative, e.g. "Builds commissioned branded Roblox experiences for brand clients" -->
 - **Added:** <!-- YYYY-MM-DD, date of the sweep that found this entry -->

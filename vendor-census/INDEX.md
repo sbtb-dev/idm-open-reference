@@ -1,6 +1,6 @@
 # Vendor Census
 
-An alphabetical roster of vendors found during scope sweeps of the third-party access, instrumentation, and measurement space around game and virtual environments.
+An alphabetical roster of vendors found during scope sweeps of the market that builds, commissions, brokers, or operates branded experiences and integrations inside games and virtual environments — game studios, agencies, and production shops brands work with to get an in-world presence.
 
 > **This is not an endorsement list.** Presence on this roster states only that an organization was found operating in this space and could be publicly identified. It is not a claim of quality, reliability, or fitness for any purpose. Absence from this roster is not a claim of anything — it may mean a sweep hasn't reached that organization yet.
 
