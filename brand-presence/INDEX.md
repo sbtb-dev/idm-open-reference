@@ -11,6 +11,7 @@ meaning. See `README.md` for scope and exclusions.
 
 | Environment | Operator | First observed | Entry |
 |---|---|---|---|
+| Animal Crossing: New Horizons | Nintendo | 2026 | [`entries/animal-crossing-new-horizons.md`](entries/animal-crossing-new-horizons.md) |
 | ARC Raiders | Embark Studios | 2026 | [`entries/arc-raiders.md`](entries/arc-raiders.md) |
 | BGMI | KRAFTON India | 2026 | [`entries/bgmi.md`](entries/bgmi.md) |
 | Brawl Stars | Supercell | 2026 | [`entries/brawl-stars.md`](entries/brawl-stars.md) |
