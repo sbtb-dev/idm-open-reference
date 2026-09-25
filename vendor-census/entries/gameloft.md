@@ -1,0 +1,5 @@
+- **Organization:** Gameloft
+- **Slug:** gameloft
+- **Website:** https://www.gameloft.com/
+- **What they do:** Builds branded in-game integrations for outside brands inside mobile games it owns and operates, and separately runs a cross-game in-game advertising network
+- **Added:** 2026-09-25

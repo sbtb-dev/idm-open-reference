@@ -1,0 +1,5 @@
+- **Organization:** Livewire
+- **Slug:** livewire
+- **Website:** https://livewire.group/
+- **What they do:** Gaming media/marketing agency that builds and brokers branded campaigns and integrations for outside brands into third-party games, including Fortnite and Roblox
+- **Added:** 2026-09-25
