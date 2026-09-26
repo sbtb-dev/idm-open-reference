@@ -1,0 +1,5 @@
+- **Organization:** Misfits Gaming Group
+- **Slug:** misfits-gaming-group
+- **Website:** https://misfitsgaming.gg/
+- **What they do:** Esports organization that also builds custom branded games and in-game activations for third-party brands inside Roblox and Minecraft, through its Pixel Playground studio and its TubNet server
+- **Added:** 2026-09-26
