@@ -1,0 +1,5 @@
+- **Organization:** Feenix Group
+- **Slug:** feenix-group
+- **Website:** https://feenixgroup.com/
+- **What they do:** Irish gaming/esports agency group whose Studio division builds branded game environments, including standalone Roblox experiences, on behalf of outside brands.
+- **Added:** 2026-09-28
