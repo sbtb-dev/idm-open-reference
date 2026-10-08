@@ -1,0 +1,5 @@
+- **Organization:** PowerUP
+- **Slug:** powerup
+- **Website:** https://powerupsponsors.com/
+- **What they do:** Brand activation service run by game studio Meta4 Interactive; makes playable branded experiences inside Fortnite and Roblox UGC maps for outside brands.
+- **Added:** 2026-10-07
